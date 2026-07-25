@@ -1,0 +1,6 @@
+# robots.txt для LINVIO
+# ЗАМЕНИТЕ https://linvio.kz на ваш реальный домен
+User-agent: *
+Allow: /
+
+Sitemap: https://linvio.kz/sitemap.xml
